@@ -1,5 +1,5 @@
 class Shape:
-    def __init__(self,hekef,age):
+    def __init__(self,hekef,area):
         self.__hekef = hekef
         self.__area = area
 
